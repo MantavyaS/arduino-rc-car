@@ -18,10 +18,6 @@ This project is a remote-controlled car built using an Arduino Uno, L298N motor 
 - 9V Battery + Holder
 - Jumper Wires
 
-## Circuit Diagram
-
-![Circuit Diagram](schematic/circuit_diagram.png)
-
 ## Images
 
 ![RC Car](images/rc-car.jpg)
@@ -34,4 +30,4 @@ The Arduino code is available in the [`code/`](code/) directory. It uses the `IR
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/arduino-rc-car.git
+   git clone https://github.com/MantavyaS/arduino-rc-car.git
